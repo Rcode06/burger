@@ -7,7 +7,7 @@
 
 *This applicacion stores each hamburger in the database.
 
-![Screenshot](public/assets/img/screenshot.png)
+![Screenshot](public/assets/img/screenshot .png)
 
 ## Author
 
